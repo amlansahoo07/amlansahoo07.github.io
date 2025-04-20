@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.aa0704eb.chunk.css",
-    "main.js": "/static/js/main.e7c5feee.chunk.js",
-    "main.js.map": "/static/js/main.e7c5feee.chunk.js.map",
+    "main.js": "/static/js/main.e2300a5d.chunk.js",
+    "main.js.map": "/static/js/main.e2300a5d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.afa9dabe.js",
     "runtime-main.js.map": "/static/js/runtime-main.afa9dabe.js.map",
     "static/js/2.46e26ccc.chunk.js": "/static/js/2.46e26ccc.chunk.js",
     "static/js/2.46e26ccc.chunk.js.map": "/static/js/2.46e26ccc.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c1aee887b250e14e402c8123f71df03e.js": "/precache-manifest.c1aee887b250e14e402c8123f71df03e.js",
+    "precache-manifest.21aa8c92221f385dc921d0e67409eba3.js": "/precache-manifest.21aa8c92221f385dc921d0e67409eba3.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.aa0704eb.chunk.css.map": "/static/css/main.aa0704eb.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
@@ -23,7 +23,7 @@
     "static/media/data_science.svg": "/static/media/data_science.ebf35d7f.svg",
     "static/media/deeplearning_ai_logo.png": "/static/media/deeplearning_ai_logo.75a7107b.png",
     "static/media/developerActivity.svg": "/static/media/developerActivity.3e23ca14.svg",
-    "static/media/drone.png": "/static/media/drone.2c497738.png",
+    "static/media/drone-landing.png": "/static/media/drone-landing.ff915fb9.png",
     "static/media/dsc_logo.png": "/static/media/dsc_logo.63f707f2.png",
     "static/media/education.svg": "/static/media/education.3bab7a9d.svg",
     "static/media/edulyt_logo.png": "/static/media/edulyt_logo.96040382.png",
@@ -72,6 +72,6 @@
     "static/js/runtime-main.afa9dabe.js",
     "static/js/2.46e26ccc.chunk.js",
     "static/css/main.aa0704eb.chunk.css",
-    "static/js/main.e7c5feee.chunk.js"
+    "static/js/main.e2300a5d.chunk.js"
   ]
 }

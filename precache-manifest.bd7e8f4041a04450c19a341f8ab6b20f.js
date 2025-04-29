@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b272aba2beda7edf9a8cf83c8c607dad",
+    "revision": "d8d3b1686a5c6949983a0a337ef2e047",
     "url": "/index.html"
   },
   {
-    "revision": "25a7e6392fb8444e9d10",
+    "revision": "6c51f00cf8f6998c68ca",
     "url": "/static/css/main.aa0704eb.chunk.css"
   },
   {
-    "revision": "3d46d1c1b0e94d10ebb0",
-    "url": "/static/js/2.46e26ccc.chunk.js"
+    "revision": "d99378cd6fd116824d44",
+    "url": "/static/js/2.13728f60.chunk.js"
   },
   {
-    "revision": "25a7e6392fb8444e9d10",
-    "url": "/static/js/main.e2300a5d.chunk.js"
+    "revision": "6c51f00cf8f6998c68ca",
+    "url": "/static/js/main.dae74cd1.chunk.js"
   },
   {
     "revision": "596478b2fe086602f02e",
     "url": "/static/js/runtime-main.afa9dabe.js"
+  },
+  {
+    "revision": "f339f741b121cad725722b3adabd2837",
+    "url": "/static/media/3d_vision.f339f741.png"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -56,16 +60,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/address_image.16559172.svg"
   },
   {
-    "revision": "eaf02c2d0158b6b4b8c2a0a0cf830a04",
-    "url": "/static/media/animated_ashutosh.eaf02c2d.png"
-  },
-  {
     "revision": "dcd6dee2bd7458a4a576dc131506fd83",
     "url": "/static/media/animated_logo.dcd6dee2.svg"
-  },
-  {
-    "revision": "069938a84edd6ebf383c318e9feb5d4c",
-    "url": "/static/media/blindstick.069938a8.png"
   },
   {
     "revision": "058eca4cbdc03a1dad9a6bb943ac7831",
@@ -212,16 +208,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ics_logo.38c0a78b.png"
   },
   {
-    "revision": "571a8584e69ecfbe326c8b8385fbbf54",
-    "url": "/static/media/iiitk_logo.571a8584.png"
-  },
-  {
     "revision": "29152cf756a1facead5393c32e373371",
     "url": "/static/media/intel_logo.29152cf7.jpg"
-  },
-  {
-    "revision": "60ed0bd3f8b99ac1d29e74575f804aaa",
-    "url": "/static/media/iu_logo.60ed0bd3.png"
   },
   {
     "revision": "5b4a6449747ec61a6d9aa874f2a9ceba",

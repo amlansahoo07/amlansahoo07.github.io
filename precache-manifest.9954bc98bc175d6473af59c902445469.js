@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7cfac0be850e5718334beead41c48936",
+    "revision": "1870bd2c97ee668fe0f6e8aa675b207c",
     "url": "/index.html"
   },
   {
-    "revision": "272a0973ba2d893313d8",
+    "revision": "e456a652dc6b45526645",
     "url": "/static/css/main.ca3e2948.chunk.css"
   },
   {
-    "revision": "d99378cd6fd116824d44",
-    "url": "/static/js/2.13728f60.chunk.js"
+    "revision": "e9073b0266eb56cc66c8",
+    "url": "/static/js/2.d7dc7485.chunk.js"
   },
   {
-    "revision": "272a0973ba2d893313d8",
-    "url": "/static/js/main.e139dcb7.chunk.js"
+    "revision": "e456a652dc6b45526645",
+    "url": "/static/js/main.e1abb63a.chunk.js"
   },
   {
     "revision": "596478b2fe086602f02e",
@@ -92,12 +92,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/developerActivity.3e23ca14.svg"
   },
   {
-    "revision": "ff915fb92b6241eea1bd7beba24fc5a1",
-    "url": "/static/media/drone-landing.ff915fb9.png"
-  },
-  {
-    "revision": "63f707f224c8a842ac928c36e3be879a",
-    "url": "/static/media/dsc_logo.63f707f2.png"
+    "revision": "70c397d28d731b846b92e44c1dd4d030",
+    "url": "/static/media/drone-landing.70c397d2.png"
   },
   {
     "revision": "3bab7a9dc4324f1b2364d25a47fcfcf0",
@@ -200,10 +196,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/homepage-photo.59ab78a3.jpg"
   },
   {
-    "revision": "d3fccbe1db76b96f4f320d9c0f7da30c",
-    "url": "/static/media/ibm_logo.d3fccbe1.png"
-  },
-  {
     "revision": "38c0a78b74af5dd3db6a254f7d92c1ff",
     "url": "/static/media/ics_logo.38c0a78b.png"
   },
@@ -284,20 +276,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ssws_logo.4ff3f7ea.png"
   },
   {
-    "revision": "2c497738be3831492aeb6bdc43f19154",
-    "url": "/static/media/stanford_logo.2c497738.png"
-  },
-  {
     "revision": "6ac91b161c2c9934a44f72d75d18142d",
     "url": "/static/media/talksCardBack.6ac91b16.svg"
   },
   {
     "revision": "3fa5424232370e3d049c9555d9c440a4",
     "url": "/static/media/talksCardBackAlt.3fa54242.svg"
-  },
-  {
-    "revision": "0993e3246bf5146154391a0afef79b03",
-    "url": "/static/media/tiktok_logo.0993e324.png"
   },
   {
     "revision": "24465f29c0724f66f9991d75b21ff391",

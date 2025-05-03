@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.ca3e2948.chunk.css",
-    "main.js": "/static/js/main.e139dcb7.chunk.js",
-    "main.js.map": "/static/js/main.e139dcb7.chunk.js.map",
+    "main.js": "/static/js/main.e1abb63a.chunk.js",
+    "main.js.map": "/static/js/main.e1abb63a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.afa9dabe.js",
     "runtime-main.js.map": "/static/js/runtime-main.afa9dabe.js.map",
-    "static/js/2.13728f60.chunk.js": "/static/js/2.13728f60.chunk.js",
-    "static/js/2.13728f60.chunk.js.map": "/static/js/2.13728f60.chunk.js.map",
+    "static/js/2.d7dc7485.chunk.js": "/static/js/2.d7dc7485.chunk.js",
+    "static/js/2.d7dc7485.chunk.js.map": "/static/js/2.d7dc7485.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.8e3b5e09a585946e84a758d333b339af.js": "/precache-manifest.8e3b5e09a585946e84a758d333b339af.js",
+    "precache-manifest.9954bc98bc175d6473af59c902445469.js": "/precache-manifest.9954bc98bc175d6473af59c902445469.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.ca3e2948.chunk.css.map": "/static/css/main.ca3e2948.chunk.css.map",
     "static/media/3d_vision.png": "/static/media/3d_vision.f339f741.png",
@@ -22,8 +22,7 @@
     "static/media/data_science.svg": "/static/media/data_science.ebf35d7f.svg",
     "static/media/deeplearning_ai_logo.png": "/static/media/deeplearning_ai_logo.75a7107b.png",
     "static/media/developerActivity.svg": "/static/media/developerActivity.3e23ca14.svg",
-    "static/media/drone-landing.png": "/static/media/drone-landing.ff915fb9.png",
-    "static/media/dsc_logo.png": "/static/media/dsc_logo.63f707f2.png",
+    "static/media/drone-landing.png": "/static/media/drone-landing.70c397d2.png",
     "static/media/education.svg": "/static/media/education.3bab7a9d.svg",
     "static/media/edulyt_logo.png": "/static/media/edulyt_logo.96040382.png",
     "static/media/experience.svg": "/static/media/experience.a00ede3f.svg",
@@ -35,7 +34,6 @@
     "static/media/googleAssistant.jpg": "/static/media/googleAssistant.0c8a4c11.jpg",
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.a6addc3f.svg",
     "static/media/homepage-photo.jpg": "/static/media/homepage-photo.59ab78a3.jpg",
-    "static/media/ibm_logo.png": "/static/media/ibm_logo.d3fccbe1.png",
     "static/media/ics_logo.png": "/static/media/ics_logo.38c0a78b.png",
     "static/media/intel_logo.jpg": "/static/media/intel_logo.29152cf7.jpg",
     "static/media/jsFramework.svg": "/static/media/jsFramework.5b4a6449.svg",
@@ -56,10 +54,8 @@
     "static/media/pwa.png": "/static/media/pwa.71408db7.png",
     "static/media/robotics.svg": "/static/media/robotics.9a9be0a2.svg",
     "static/media/ssws_logo.png": "/static/media/ssws_logo.4ff3f7ea.png",
-    "static/media/stanford_logo.png": "/static/media/stanford_logo.2c497738.png",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.6ac91b16.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.3fa54242.svg",
-    "static/media/tiktok_logo.png": "/static/media/tiktok_logo.0993e324.png",
     "static/media/ucl_logo.png": "/static/media/ucl_logo.24465f29.png",
     "static/media/ucl_logo2.png": "/static/media/ucl_logo2.2fbe1217.png",
     "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.d6363089.svg",
@@ -67,8 +63,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.afa9dabe.js",
-    "static/js/2.13728f60.chunk.js",
+    "static/js/2.d7dc7485.chunk.js",
     "static/css/main.ca3e2948.chunk.css",
-    "static/js/main.e139dcb7.chunk.js"
+    "static/js/main.e1abb63a.chunk.js"
   ]
 }

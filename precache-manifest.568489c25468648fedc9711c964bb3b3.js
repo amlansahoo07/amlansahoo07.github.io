@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1870bd2c97ee668fe0f6e8aa675b207c",
+    "revision": "2773ed45d51c8209f9859824b3840091",
     "url": "/index.html"
   },
   {
-    "revision": "e456a652dc6b45526645",
+    "revision": "c29c68bee7e2382596f9",
     "url": "/static/css/main.ca3e2948.chunk.css"
   },
   {
-    "revision": "e9073b0266eb56cc66c8",
-    "url": "/static/js/2.d7dc7485.chunk.js"
+    "revision": "efd0dc99cddc1e22d308",
+    "url": "/static/js/2.aed78585.chunk.js"
   },
   {
-    "revision": "e456a652dc6b45526645",
-    "url": "/static/js/main.e1abb63a.chunk.js"
+    "revision": "c29c68bee7e2382596f9",
+    "url": "/static/js/main.5812f39f.chunk.js"
   },
   {
     "revision": "596478b2fe086602f02e",
@@ -242,6 +242,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ddcf1d16b4cfacf3db0e52279d5298d0",
     "url": "/static/media/pick_n_place.ddcf1d16.png"
+  },
+  {
+    "revision": "503891bfef933b3dbf70c112063e02cc",
+    "url": "/static/media/pointcloud_table_detection.503891bf.png"
   },
   {
     "revision": "414dfbd98516b39255a3e22ed90b3f7d",
